@@ -1,5 +1,7 @@
-# Responsible AI: Balancing Security, Ethics, and Privacy in the Era of Artificial Intelligence
-This repository contains the example code, datasets, and other resources for the book "Responsible AI: Balancing Security, Ethics, and Privacy in the Era of Artificial Intelligence." The book is authored by Omar Santos and Dr. Petar Radanliev. It covers various topics related to AI and ML, from historical perspectives to security and ethical considerations.
+# Beyond the Algorithm: AI, Security, Privacy, and Ethics
+This repository contains the example code, datasets, and other resources for the book "Beyond the Algorithm: AI, Security, Privacy, and Ethics." 
+
+The book is authored by Omar Santos and Dr. Petar Radanliev. It covers various topics related to AI and ML, from historical perspectives to security and ethical considerations.
 
 ## Getting Started
 To use the example code and resources, you'll need to clone this repository or download the files to your local machine.
